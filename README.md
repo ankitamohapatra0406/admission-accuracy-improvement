@@ -2,7 +2,7 @@
 ## 📌Project Overview
 This project focuses on improving the accuracy of predicting a student’s probability of admission using machine learning techniques. Starting from a baseline linear regression model, the project applies feature engineering, advanced regression models, and hyperparameter tuning to achieve measurable performance improvements.
 
-The work follows a structured, reproducible ML workflow and emphasizes fair model comparison. 
+The work follows a structured, reproducible ML workflow and emphasizes fair model comparison.
 
 ## 🎯Objective
 - Build a baseline admission prediction model
